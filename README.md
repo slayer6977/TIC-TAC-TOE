@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-tic tac btoe is a game you can play against the computer.
+tic tac toe is a game you can play against the computer.
